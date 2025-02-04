@@ -10,5 +10,5 @@ Add the `server_ssl_serial` package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  server_ssl_serial: ^1.0.0 # this is the latest version
+  server_ssl_serial: ^1.0.1 # this is the latest version
 ```
