@@ -1,7 +1,7 @@
 name: server_ssl_serial
-description: "A new Flutter plugin project."
-version: 0.0.1
-homepage:
+description: "Flutter plugin to get the serial number of server"
+version: 1.0.0
+repository: https://github.com/ahmedtalal/server_ssl_serial_number
 
 environment:
   sdk: ^3.5.4

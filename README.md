@@ -1,15 +1,14 @@
 # server_ssl_serial
 
-A new Flutter plugin project.
+server_ssl_serial is flutter plugin designed for retrieving the SSL serial number from server. The serial number is often used for identification, security, or encryption-related features.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add the `server_ssl_serial` package to your `pubspec.yaml` file:
 
+```yaml
+dependencies:
+  server_ssl_serial: ^1.0.0 # this is the latest version
+```
